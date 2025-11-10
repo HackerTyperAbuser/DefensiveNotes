@@ -1,0 +1,3 @@
+- [ ] Direct RDP connection from the internet
+- [ ] Email from internal workstations to the internet (if email server is exploited attacker may use email server to spam).
+- [ ] Unnecessary port connections.
