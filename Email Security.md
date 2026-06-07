@@ -3,5 +3,6 @@
 - [ ] Data Lost Prevention (DLP) capabilities
 
 ### Phishing Analysis
-- [ ] VirusTotal on identified links and attachments
-- [ ] 
+- [ ] Validate SPF, DKIM and DMARC signatures (PhishTool)
+- [ ] Validate content 
+- [ ] Validate URLs (AnyRun) + Attachments signatures (VirusTotal) 

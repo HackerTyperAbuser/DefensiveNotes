@@ -1,4 +1,7 @@
 {
   "accentColor": "#201eae",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "cssTheme": "Willemstad",
+  "showViewHeader": true,
+  "showRibbon": true
 }

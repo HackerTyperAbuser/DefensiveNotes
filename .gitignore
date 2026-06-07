@@ -1,0 +1,18 @@
+# Ignore Obsidian config and workspace
+.vscode/
+.vscode
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore backups or sync artifacts
+*.bak
+*.swp
+
+/.vscode/settings.json
+/.vscode/settings.json
